@@ -1,6 +1,9 @@
 
         body {
             background-color: #EAF6F6;
+            font-family: 'Lobster', cursive;
+            font-size: 15px;
+            color: #2395e0;
         }
         hr {
             border: 8px; 
@@ -8,3 +11,40 @@
             width:6% ;
             background-color: white;
         }
+        h1 {
+            font-family: 'Lobster', cursive;
+            font-size: 50px;
+            color: #2395e0;
+            
+        }
+        h2 {
+            font-family: 'Lobster', cursive;
+            font-size: 30px;
+            color: #2395e0;
+            
+        }
+        h3 {
+            font-family: 'Lobster', cursive;
+            font-size: 20px;
+            color: #2395e0;
+            
+        }
+        h4 {
+            font-family: 'Lobster', cursive;
+            font-size: 15px;
+            color: #2395e0;
+            
+        }
+        h5 {
+            font-family: 'Lobster', cursive;
+            font-size: 10px;
+            color: #2395e0;
+           
+        }
+        h6 {
+            font-family: 'Lobster', cursive;
+            font-size: 5px;
+            color: #2395e0;
+            
+        }
+       
